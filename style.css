@@ -76,7 +76,7 @@ body{
     border-radius: 15px;
     justify-content: center;
     text-align: center;
-    /* display: none;  */
+    display: none; 
     margin: 0 auto;
 }
 #result h1{
