@@ -5,8 +5,8 @@ body{
     margin: 30px;
 }
 *{
-    margin: 0;
-    padding: 0;
+     margin: 5px;
+    padding: 5px;
 }
 #game{
     height: 500px;
@@ -71,11 +71,14 @@ body{
     height: fit-content;
     padding: 1rem;
     width: 400px;
-    background-color: rgb(227, 145, 145);
+    background-color: rgb(145, 174, 227);
     margin: 1rem auto;
     border-radius: 15px;
     justify-content: center;
     text-align: center;
-    display: none; 
+    /* display: none;  */
     margin: 0 auto;
+}
+#result h1{
+    color: #002754;
 }
